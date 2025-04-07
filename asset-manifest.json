@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Deekshiba/AffordMed-Task-7/static/css/main.7d0cfdeb.css",
-    "main.js": "/Deekshiba/AffordMed-Task-7/static/js/main.c65e56e2.js",
-    "static/js/453.1c29ee80.chunk.js": "/Deekshiba/AffordMed-Task-7/static/js/453.1c29ee80.chunk.js",
-    "index.html": "/Deekshiba/AffordMed-Task-7/index.html",
-    "main.7d0cfdeb.css.map": "/Deekshiba/AffordMed-Task-7/static/css/main.7d0cfdeb.css.map",
-    "main.c65e56e2.js.map": "/Deekshiba/AffordMed-Task-7/static/js/main.c65e56e2.js.map",
-    "453.1c29ee80.chunk.js.map": "/Deekshiba/AffordMed-Task-7/static/js/453.1c29ee80.chunk.js.map"
+    "main.css": "/AffordMed-Task-7/static/css/main.7d0cfdeb.css",
+    "main.js": "/AffordMed-Task-7/static/js/main.82c3b91c.js",
+    "static/js/453.1c29ee80.chunk.js": "/AffordMed-Task-7/static/js/453.1c29ee80.chunk.js",
+    "index.html": "/AffordMed-Task-7/index.html",
+    "main.7d0cfdeb.css.map": "/AffordMed-Task-7/static/css/main.7d0cfdeb.css.map",
+    "main.82c3b91c.js.map": "/AffordMed-Task-7/static/js/main.82c3b91c.js.map",
+    "453.1c29ee80.chunk.js.map": "/AffordMed-Task-7/static/js/453.1c29ee80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d0cfdeb.css",
-    "static/js/main.c65e56e2.js"
+    "static/js/main.82c3b91c.js"
   ]
 }
