@@ -1,15 +1,14 @@
 .login-wrapper {
   display: flex;
   justify-content: center;
-  align-items: flex-start; 
+  align-items: center;
   height: 100vh;
-  padding-top: 200px; 
-  background-color: white;
+  background-color: #141414; 
 }
 
 .login-container {
-  width: 500px;
-  background-color: rgba(252, 250, 250, 0.904);
+  width: 400px;
+  background-color: #1f1f1f;
   padding: 2rem 3rem;
   border-radius: 12px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
@@ -20,9 +19,71 @@
 
 .login-title {
   text-align: center;
+  color: #e50914; 
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+}
+
+.login-email-group label,
+.login-password-group label {
+  color: #fff;
+}
+
+.login-email-group input,
+.login-password-group input {
+  background-color: #333;
+  border: none;
+  color: #fff;
+}
+
+.login-email-group input::placeholder,
+.login-password-group input::placeholder {
+  color: #aaa;
 }
 
 .login-button {
   width: 100%;
+  background-color: #e50914;
+  border: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.login-button:hover {
+  background-color: #f6121d;
+}
+
+
+body {
+  background-color: #141414; 
+  color: #ffffff;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  color: #e50914; 
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #e50914;
+}
+
+.card {
+  background-color: #1f1f1f;
+  color: #ffffff;
+  border: none;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  cursor: pointer;
 }
 
