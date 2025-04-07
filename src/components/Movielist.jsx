@@ -1,5 +1,3 @@
-// components/MovieList.jsx
-// components/MovieList.jsx
 import React from "react";
 import { Row, Col } from "react-bootstrap";
 import MovieCard from "./MovieCard";
