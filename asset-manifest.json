@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AffordMed-Task-7/static/css/main.7d0cfdeb.css",
-    "main.js": "/AffordMed-Task-7/static/js/main.7c4303d6.js",
+    "main.js": "/AffordMed-Task-7/static/js/main.82c3b91c.js",
     "static/js/453.1c29ee80.chunk.js": "/AffordMed-Task-7/static/js/453.1c29ee80.chunk.js",
     "index.html": "/AffordMed-Task-7/index.html",
     "main.7d0cfdeb.css.map": "/AffordMed-Task-7/static/css/main.7d0cfdeb.css.map",
-    "main.7c4303d6.js.map": "/AffordMed-Task-7/static/js/main.7c4303d6.js.map",
+    "main.82c3b91c.js.map": "/AffordMed-Task-7/static/js/main.82c3b91c.js.map",
     "453.1c29ee80.chunk.js.map": "/AffordMed-Task-7/static/js/453.1c29ee80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d0cfdeb.css",
-    "static/js/main.7c4303d6.js"
+    "static/js/main.82c3b91c.js"
   ]
 }
